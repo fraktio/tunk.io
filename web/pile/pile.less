@@ -11,21 +11,23 @@ body {
   color: rgb(255, 255, 255);
 }
 
+#container-outer {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: auto;
+  margin-top: -100px;
+}
+
 #container {
 
   -webkit-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, .5);
   -moz-box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, .5);
   box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, .5);
-
-  position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  height: 143px;
-  padding: 30px;
-  margin-top: -100px;
   background-color: rgb(236, 45, 34);
   text-align: center;
+  padding: 30px;
 
   p {
     margin: 20px 0 0 0;
@@ -33,6 +35,19 @@ body {
 
   > img {
       width: 500px;
+  }
+
+
+}
+
+footer {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 12px;
+  color: rgb(200, 200, 200);
+
+  a:link, a:visited {
+    color: rgb(200, 200, 200);
   }
 
 }

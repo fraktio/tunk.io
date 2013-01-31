@@ -1,0 +1,26 @@
+/* TEAM */
+
+Creator: Mikko "Pekkis" Forsström
+Contact: mikko.forsstrom [at] fraktio.fi
+Twitter: @pekkisx
+From: Vantaa, Finland
+
+Creator: Henri "Tohtori" Vesala
+Contact: henri.vesala [at] fraktio.fi
+Twitter: @DrVesala
+From: Espoo, Finland
+
+Logo / colours: Jussi Virtanen
+Contact: jussi [at] jussivirtanen.fi
+Twitter: @JVirtanenDesign
+From: Helsinki, Finland
+
+/* THANKS */
+
+Hosting & DNS: Fraktio (https://fraktio.fi)
+
+/* SITE */
+
+Language: English
+Doctype: HTML5
+Tech: HTML, DNS

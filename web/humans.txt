@@ -15,9 +15,16 @@ Contact: jussi [at] jussivirtanen.fi
 Twitter: @JVirtanenDesign
 From: Helsinki, Finland
 
+Finishing touches: Panu "Lukki" Leppäniemi
+Contact: panu.leppaniemi@fraktio.fi
+Twitter: @panuleppaniemi
+From: Espoo, Finland
+
 /* THANKS */
 
 Hosting & DNS: Fraktio (https://fraktio.fi)
+
+Background pattern: http://subtlepatterns.com
 
 /* SITE */
 
